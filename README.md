@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Floow216;
-- 👀 I’m interested in: html5, css, js and looking to learn py;
+- 👀 I’m interested in: Python3, currently learning;
 - 🌱 I’m currently learning: all the above!;
-- 💞️ I’m looking to collaborate on: easier webdevelopment projects, to learn;
+- 💞️ I’m looking to collaborate on: easier python projects, to learn;
 - 📫 How to reach me: here on git or email;
 
 <!---
